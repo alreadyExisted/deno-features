@@ -4,7 +4,7 @@
 
 ## VS Code (JetBrains IDEs is not yet available)
 
-- Support Deno Extension [axetroy.vscode-deno](https://marketplace.visualstudio.com/items?itemName=axetroy.vscode-deno)
+- Support Deno extension [justjavac.vscode-deno](https://marketplace.visualstudio.com/items?itemName=axetroy.vscode-deno) (It's [official extension](https://github.com/denoland/deno/pull/5292).)
 
   ```json
   // .vscode/settings.json
